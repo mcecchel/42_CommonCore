@@ -21,8 +21,9 @@ This `main` branch is reserved for general updates and communication.
 | 🏛 Philosophers  | ✅ Done | `100/100` | [View branch](https://github.com/mcecchel/Philosophers) |
 | 🌐 NetPractice   | ✅ Done | `100/100` | [View branch](https://github.com/mcecchel/42_CommonCore/tree/NetPractice) |
 | 🎮 Cub3d         | ✅ Done | `125/100` | [View branch](https://github.com/mcecchel/42_CommonCore/tree/cub3d/cub3d) |
-| ⚙️ CPP Modules | ✅ Done | `All passed` | [View branch](https://github.com/mcecchel/42_CommonCore/tree/CPP_Modules) |
-| 🌀 Inception     | 🔄 In progress | — | [View branch](https://github.com/mcecchel/42_CommonCore/tree/inception) |
+| ⚙️ CPP Modules   | ✅ Done | `All passed` | [View branch](https://github.com/mcecchel/42_CommonCore/tree/CPP_Modules) |
+| 💬 ft_irc        | ✅ Done | `125/100` | [View branch](https://github.com/mcecchel/42_CommonCore/tree/ft_irc) |
+| 🌀 Inception     | 🔄 In progress | —  | [View branch](https://github.com/mcecchel/42_CommonCore/tree/inception) |
 
 ---
 
